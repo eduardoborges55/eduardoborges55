@@ -4,7 +4,6 @@ I´am a Brazilian student of computer engineering and full stack developer at Ze
  <div>
   <a href="https://github.com/eduardoborges55">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoborges55&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoborges55&layout=compact&langs_count=10&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

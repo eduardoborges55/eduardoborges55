@@ -1,5 +1,5 @@
 ### Hi there, I'am Eduardo Borges 👋
-I´am a Brazilian student of computer engineering and full stack developer at Zero One tech, now working with Python(DJANGO), NextJS, React, Typescript and making projects with Coding55 partner.
+I´am a Brazilian student of computer engineering and full stack developer at Zero One Tech, now working with Python(DJANGO), NextJS, React, Typescript and making projects with Coding55 partner.
 
  <div>
   <a href="https://github.com/eduardoborges55">

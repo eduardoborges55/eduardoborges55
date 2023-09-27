@@ -1,5 +1,5 @@
 ### Hi there, I'am Eduardo Borges 👋
-I´am a Brazilian student of computer engineering and full stack developer at Zero One Tech, now working with Python(DJANGO), NextJS, React, Typescript and making projects with Coding55 partner.
+Passionate Full Stack Developer with expertise in NodeJS, Express, TypeScript, ReactJS, and VueJS. I have deep experience in databases, mastering MongoDB, Mongoose, MySQL, and Sequelize. My commitment is to technical excellence, building robust and scalable solutions. Let's together drive high-caliber technology projects!
 
  <div>
   <a href="https://github.com/eduardoborges55">
